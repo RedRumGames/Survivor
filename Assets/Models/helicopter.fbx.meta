@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 26c4275ce0df5984d842f77c32c21850
+timeCreated: 1480213971
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube.003
+    100002: //RootNode
+    100004: HELIMAIN
+    100006: MAINPROPELLERPOLE
+    100008: minipropeller1
+    100010: minipropeller2
+    100012: minipropeller3
+    100014: minipropeller4
+    100016: minipropellerbase1
+    100018: minipropellerbase2
+    100020: minipropellerpole
+    100022: minipropellerpole1
+    100024: minipropellerpole2
+    100026: minipropellerpole3
+    100028: minipropellerpole4
+    100030: minipropellertop1
+    100032: minipropellertop2
+    100034: propeller1
+    100036: propeller2
+    100038: propeller3
+    100040: propeller4
+    100042: PROPELLERBASE1
+    100044: PROPELLERBASE2
+    100046: PROPELLERPOLE1
+    100048: PROPELLERPOLE2
+    100050: PROPELLERPOLE3
+    100052: PROPELLERPOLE4
+    100054: PROPELLERTOP1
+    100056: PROPELLERTOP2
+    400000: Cube.003
+    400002: //RootNode
+    400004: HELIMAIN
+    400006: MAINPROPELLERPOLE
+    400008: minipropeller1
+    400010: minipropeller2
+    400012: minipropeller3
+    400014: minipropeller4
+    400016: minipropellerbase1
+    400018: minipropellerbase2
+    400020: minipropellerpole
+    400022: minipropellerpole1
+    400024: minipropellerpole2
+    400026: minipropellerpole3
+    400028: minipropellerpole4
+    400030: minipropellertop1
+    400032: minipropellertop2
+    400034: propeller1
+    400036: propeller2
+    400038: propeller3
+    400040: propeller4
+    400042: PROPELLERBASE1
+    400044: PROPELLERBASE2
+    400046: PROPELLERPOLE1
+    400048: PROPELLERPOLE2
+    400050: PROPELLERPOLE3
+    400052: PROPELLERPOLE4
+    400054: PROPELLERTOP1
+    400056: PROPELLERTOP2
+    2300000: Cube.003
+    2300002: HELIMAIN
+    2300004: MAINPROPELLERPOLE
+    2300006: minipropeller1
+    2300008: minipropeller2
+    2300010: minipropeller3
+    2300012: minipropeller4
+    2300014: minipropellerbase1
+    2300016: minipropellerbase2
+    2300018: minipropellerpole
+    2300020: minipropellerpole1
+    2300022: minipropellerpole2
+    2300024: minipropellerpole3
+    2300026: minipropellerpole4
+    2300028: minipropellertop1
+    2300030: minipropellertop2
+    2300032: propeller1
+    2300034: propeller2
+    2300036: propeller3
+    2300038: propeller4
+    2300040: PROPELLERBASE1
+    2300042: PROPELLERBASE2
+    2300044: PROPELLERPOLE1
+    2300046: PROPELLERPOLE2
+    2300048: PROPELLERPOLE3
+    2300050: PROPELLERPOLE4
+    2300052: PROPELLERTOP1
+    2300054: PROPELLERTOP2
+    3300000: Cube.003
+    3300002: HELIMAIN
+    3300004: MAINPROPELLERPOLE
+    3300006: minipropeller1
+    3300008: minipropeller2
+    3300010: minipropeller3
+    3300012: minipropeller4
+    3300014: minipropellerbase1
+    3300016: minipropellerbase2
+    3300018: minipropellerpole
+    3300020: minipropellerpole1
+    3300022: minipropellerpole2
+    3300024: minipropellerpole3
+    3300026: minipropellerpole4
+    3300028: minipropellertop1
+    3300030: minipropellertop2
+    3300032: propeller1
+    3300034: propeller2
+    3300036: propeller3
+    3300038: propeller4
+    3300040: PROPELLERBASE1
+    3300042: PROPELLERBASE2
+    3300044: PROPELLERPOLE1
+    3300046: PROPELLERPOLE2
+    3300048: PROPELLERPOLE3
+    3300050: PROPELLERPOLE4
+    3300052: PROPELLERTOP1
+    3300054: PROPELLERTOP2
+    4300000: Cube.003
+    4300002: minipropellerbase1
+    4300004: minipropellerpole
+    4300006: minipropellerbase2
+    4300008: minipropellertop2
+    4300010: minipropellertop1
+    4300012: minipropellerpole4
+    4300014: minipropellerpole2
+    4300016: minipropellerpole3
+    4300018: minipropellerpole1
+    4300020: minipropeller3
+    4300022: minipropeller4
+    4300024: minipropeller1
+    4300026: minipropeller2
+    4300028: propeller2
+    4300030: propeller1
+    4300032: propeller4
+    4300034: propeller3
+    4300036: PROPELLERPOLE1
+    4300038: PROPELLERPOLE3
+    4300040: PROPELLERPOLE2
+    4300042: PROPELLERPOLE4
+    4300044: PROPELLERTOP1
+    4300046: PROPELLERTOP2
+    4300048: PROPELLERBASE2
+    4300050: MAINPROPELLERPOLE
+    4300052: PROPELLERBASE1
+    4300054: HELIMAIN
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
